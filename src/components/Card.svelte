@@ -8,9 +8,7 @@
   import { likeCount } from "../store/store.js";
 
   export let name;
-  // export let status;
   export let species;
-  // export let origin;
   export let location;
   export let image;
 

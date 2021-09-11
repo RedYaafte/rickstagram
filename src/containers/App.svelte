@@ -49,7 +49,6 @@
     border: 1px solid rgb(56, 68, 77) !important;
   }
   :global(.Card.dark-mode h2, .Card.dark-mode h3, .Sidebar.dark-mode h2) {
-    /* color: #bfc2c7 !important; */
     color: white !important;
   }
   :global(.Card.dark-mode span, .Main.dark-mode
