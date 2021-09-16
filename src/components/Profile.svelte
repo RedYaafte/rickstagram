@@ -5,7 +5,6 @@
 
   function toggle() {
     styles.darkMode = !styles.darkMode;
-    console.log(styles.darkMode);
     window.document.querySelector(".Main").classList.toggle("dark-mode");
     window.document.querySelector(".Header").classList.toggle("dark-mode");
     window.document.querySelector(".Sidebar").classList.toggle("dark-mode");
