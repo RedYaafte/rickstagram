@@ -1,0 +1,8 @@
+{
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "name": "Rickstagram",
+  "short_name": "Rickstagram",
+  "display": "minimal-ui",
+  "start_url": "/"
+}
