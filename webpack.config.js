@@ -90,9 +90,9 @@ module.exports = {
     }
   },
 
-  // serviceworker: {
-  //   entry: config.serviceworker.entry(),
-  //   output: config.serviceworker.output(),
-  //   mode
-  // }
+  serviceworker: {
+    entry: config.serviceworker.entry(),
+    output: config.serviceworker.output(),
+    mode
+  }
 };
